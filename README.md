@@ -40,12 +40,9 @@ The best-performing model is Content-Based.
 
 <h3>Usage</h3>
 Clone the repository:
-```
-git clone https://github.com/your-username/movie-recommendation-system.git
-```
-cd movie-recommendation-system
-Run the Jupyter Notebook:
-jupyter notebook Movie_Recommendation_System.ipynb
+```git clone https://github.com/your-username/movie-recommendation-system.git```
+```cd movie-recommendation-system```
+Run the collab file
 Follow the instructions in the notebook to execute and test the recommendation system.
 
 <h3>Future Work</h3>
